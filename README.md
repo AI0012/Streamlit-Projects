@@ -8,12 +8,12 @@ This Streamlit project provides an interactive data dashboard that allows users 
 * Real-Time Updates: Automatically update visualizations and data displays as users interact with the dashboard.
 # Installation
 To run this project locally, follow these steps:
-*Clone the repository:*
+## *Clone the repository:*
 > git clone https://github.com/yourusername/streamlit-data-dashboard.git
 > cd streamlit-data-dashboard
-*Install the dependencies:*
+## *Install the dependencies:*
 > pip install -r requirements.txt
-*Run the Streamlit app:*
+## *Run the Streamlit app:*
 > streamlit run app.py
 # Usage
 After starting the Streamlit app, navigate to http://localhost:8501 in your web browser. You will be greeted with the main dashboard where you can interact with various data visualizations and controls.
